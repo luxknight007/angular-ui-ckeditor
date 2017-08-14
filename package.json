@@ -1,0 +1,57 @@
+{
+  "name": "angular-ui-ckeditor",
+  "version": "0.0.1",
+  "description": "ckeditor + Angularjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luxknight007/angular-ui-ckeditor.git"
+  },
+  "keywords": [
+    "angular",
+    "ckeditor",
+    "wyswyg"
+  ],
+  "author": "Zoilo Dela Cruz",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/luxknight007/angular-ui-ckeditor/issues"
+  },
+  "homepage": "https://github.com/luxknight007/angular-ui-ckeditor#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint-config-standard": "^4.4.0",
+    "eslint-plugin-standard": "^1.3.1",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.5.2",
+    "gulp-coveralls": "^0.1.4",
+    "gulp-eslint": "^1.0.0",
+    "gulp-gh-pages": "^0.5.2",
+    "gulp-less": "^3.0.3",
+    "gulp-minify-html": "^1.0.3",
+    "gulp-ng-html2js": "^0.2.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-replace": "^0.5.4",
+    "gulp-rm": "^1.0.0",
+    "gulp-uglify": "^1.2.0",
+    "gulp-util": "^3.0.6",
+    "jasmine-core": "^2.3.4",
+    "jquery": "^2.1.4",
+    "jsdoc": "^3.3.1",
+    "jsdoc-baseline": "git://github.com/hegemonic/jsdoc-baseline.git#887a5a5",
+    "karma": "^0.13.10",
+    "karma-coverage": "^0.5.2",
+    "karma-jasmine": "^0.3.5",
+    "karma-ng-json2js-preprocessor": "^1.0.0",
+    "karma-phantomjs-launcher": "^0.2.0",
+    "phantomjs": "^1.9.17",
+    "phantomjs-polyfill": "0.0.1",
+    "yargs": "^3.25.0"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
